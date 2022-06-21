@@ -24,5 +24,32 @@
     <ClCompile Include="직사각형 별찍기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="없는 숫자 더하기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="행렬 더하기cpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="하샤드수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="내적.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="평균 구하기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="콜라츠의 추측.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="최소 공배수 최대 공약수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="짝수와 홀수.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="제일 작은 수 제거하기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
