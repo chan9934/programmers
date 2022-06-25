@@ -72,5 +72,8 @@
     <ClCompile Include="문자열을 정수로 바꾸기.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="소수찾기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
