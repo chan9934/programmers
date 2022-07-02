@@ -90,5 +90,17 @@
     <ClCompile Include="[1차] 다트 게임.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2016년.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="두개 뽑아서 더하기.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="예산.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자 문자열과 영단어.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
